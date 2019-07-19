@@ -1,0 +1,19 @@
+- There's a Computer Dealer and Human Player
+- Player has a bank roll / Account from which we can determine maximum allowed bet and deduction/addition of earnings
+- Standard 52 card deck
+- Face Cards are of value 10
+- Ace could be 1 or 11 depending on what's favorable to the player
+
+- Mechanics
+    - Computer Deals 2 cards to Player - both face up
+    - Computer Get 1 Card Face Up and 1 Card Face down
+
+    HUMAN TURN
+        - Human Hits or Stay
+            - if Human Gone beyond the sum of 21 , Dealer automatically wins
+    DEALER TURN
+        - Computer continues to Hit until it beats the Value Card of the Player or Goes Bust
+
+
+
+
